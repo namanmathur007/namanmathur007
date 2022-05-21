@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Naman Mathur</h1>
+<h1 align="center">Hi 👋, I'm Naman Mathur</h1>
 <h3 align="center">A CSE Sophomore and a Passionate Web-Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanmathur007&label=Profile%20views&color=0e75b6&style=flat" alt="namanmathur007" /> </p>
