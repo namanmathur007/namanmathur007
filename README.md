@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanmathur007&label=Profile%20views&color=0e75b6&style=flat" alt="namanmathur007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanmathur007" alt="namanmathur007" /></a> </p>
 
 - 🌱 I’m currently learning **NodeJS , Solidity & Everything in Web 3.0 Space :)**
 
