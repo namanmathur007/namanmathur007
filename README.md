@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanmathur007&label=Profile%20views&color=0e75b6&style=flat" alt="namanmathur007" /> </p>
 
 
-- 🌱 I’m currently learning **NextJS, AWS, Jenkins and Salesforce :)**
+- 🌱 I’m currently learning **NextJS, DevOps and Salesforce :)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/namanmathur007](https://github.com/namanmathur007)
 
