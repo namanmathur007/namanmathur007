@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Naman Mathur</h1>
-<h3 align="center">A CSE Junior and a Passionate Web-Developer</h3>
+<h3 align="center">A CSE Pre-final Year Undergrad and a Passionate Web-Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanmathur007&label=Profile%20views&color=0e75b6&style=flat" alt="namanmathur007" /> </p>
 
 
-- 🌱 I’m currently learning **NodeJS , Solidity & Everything in Web 3.0 Space :)**
+- 🌱 I’m currently learning **NextJS, AWS, Jenkins and Salesforce :)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/namanmathur007](https://github.com/namanmathur007)
 
